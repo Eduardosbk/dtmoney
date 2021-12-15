@@ -1,5 +1,5 @@
 # dtmoney
-# Rocketseat bootcamp focused ReactJS and NextJS
+# Rocketseat bootcamp focused in ReactJS and NextJS
 Practicing React with typescript by using this amazing project
 
 <h1 align="center">
